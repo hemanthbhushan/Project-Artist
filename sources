@@ -1,0 +1,4 @@
+https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721
+https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/common
+//this for the royality purpose ,use it when want to add the royality i the market place
+https://eips.ethereum.org/EIPS/eip-2981
